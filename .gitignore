@@ -1,0 +1,6 @@
+data/
+pa_ready_final/
+pa_*/
+*.png
+.ipynb_checkpoints/
+__pycache__/
