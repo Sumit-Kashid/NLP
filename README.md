@@ -62,6 +62,8 @@ tuned on the validation PR curve.
 
 BiomedBERT confusion matrix: TN = 2, FP = 298, FN = 6, TP = 430.
 
+![F1 versus ROC AUC for each model](images/results_f1_vs_auc.png)
+
 ## What the results mean
 
 Every model, including the baseline, lands at a ROC-AUC of about 0.50, which is
